@@ -19,7 +19,6 @@
 * CSS
 * JavaScript
 * React.js
-* Next.js
 
 ###  Backend
 * Node.js
